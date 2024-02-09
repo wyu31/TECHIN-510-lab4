@@ -16,7 +16,6 @@ dist/
 build/
 
 # Dependency files
-requirements.txt
 package-lock.json
 yarn.lock
 Gemfile.lock
