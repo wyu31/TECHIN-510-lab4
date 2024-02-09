@@ -1,4 +1,6 @@
 # List possible files that may need to be ignored
+venv
+
 # IDE/Editor-specific files
 .idea/
 .vscode/
